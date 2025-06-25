@@ -34,6 +34,7 @@ Coverage
  - TeX Live (by tlmgr)
  - CentOS
  - AOSC OS
+ - UV
  
 TODO
 ========================
